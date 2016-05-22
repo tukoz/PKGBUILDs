@@ -8,3 +8,5 @@ The graph below shows you CPU, RAM usage and load average needed to load ten pag
 
 This is a Gtk2 build for Arch linux, it gives more real estate room and is a bit lighter on resources (does depends on *webkitgtk2* not *webkitgtk*/*gtk3*).
 Adapted from [epitron's PKGBUILD](https://aur.archlinux.org/packages/xombrero-git/)
+
+Architectures: x86 and x86_64 (I'd like if it builds on ARM as well; lacks a platform to test that).
