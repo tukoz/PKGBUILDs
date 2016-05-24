@@ -1,6 +1,6 @@
 Packaging scripts for Arch Linux
 ================================
 
-[Arch User Repository (AUR)](https://aur.archlinux.org/) scripts modified for the systems I handle (e.g. newer version, lighter flavor), and easier sharing.
+Repo moved to https://github.com/tukoz/pkgbuilds-1/
 
-Upstream compatibility fully preserved unless duly stated in the PKGBUILD desc.
+Will remove this one this week.
